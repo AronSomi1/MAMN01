@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Video</string>
+    <string name="Header">Arons App</string>
+    <string name="App">App</string>
+    <string name="Information">Information</string>
+    <string name="Data">Data</string>
+</resources>
