@@ -1,7 +1,13 @@
 <resources>
-    <string name="app_name">Video</string>
+    <string name="app_name">Hello Sensor Aron Somi</string>
     <string name="Header">Arons App</string>
-    <string name="App">App</string>
+    <string name="App">Egen idé</string>
     <string name="Information">Information</string>
-    <string name="Data">Data</string>
+    <string name ="Instruktion">I denna app finns det tre knappar att klicka på.
+        Den första knappen, som du klickade på för att komma hit, tar dig tillbaka. \n
+        Den andra knappen tar dig till en ny aktivitet där accelerometerdata skrivs ut. \n
+        Den tredje knappen tar dig till en aktivitet som använder accelerometern för att hjälpa användaren att vrida mobilen i önskad riktning med hjälp av ljud- och haptisk feedback. </string>
+    <string name = "Skapare" >Gjord av Aron Somi</string>
+
+    <string name="Data">Accelerometer \n data</string>
 </resources>
